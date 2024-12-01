@@ -29,3 +29,9 @@
 - [LLM Agent设计模式 - Plan-and-Solve](https://mp.weixin.qq.com/s/cIcODBeVXzE7DwEfvJ5_jA)
 - [LLM Agent设计模式 - LATS](https://mp.weixin.qq.com/s/lOaaxjTT7R6d9QSom9sEOg)
 - [LLM Agent设计模式 - Reflection](https://mp.weixin.qq.com/s/Ik9sIDcwaorurBsoeVFVRg)
+
+---
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=zhenlohuang/llm-internals&type=Date)](https://star-history.com/#zhenlohuang/llm-internals&Date)
