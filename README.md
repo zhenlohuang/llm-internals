@@ -6,13 +6,13 @@
 
 ## LLM预训练与微调
 
-- [LLM训练优化 - Flash Attention](https://mp.weixin.qq.com/s/v-Oqv07zTmxselXYeiLoTw)
 - [LLM训练优化 - QLoRA](https://mp.weixin.qq.com/s/Q_lxvUhSRJbd4D5Y-rCUqw)
 
 ## LLM推理
 
 - [LLM推理入门](https://mp.weixin.qq.com/s/jOOD1wlyFOX0_jgHzT474Q)
 - [LLM推理优化 - KV Cache](https://mp.weixin.qq.com/s/ZmfE_YxDn4fEPXr3waXBug)
+- [LLM推理优化 - Flash Attention](https://mp.weixin.qq.com/s/v-Oqv07zTmxselXYeiLoTw)
 - [LLM推理优化 - PagedAttention](https://mp.weixin.qq.com/s/KaiFzXzTn4gGe4oWj5POuQ)
 - [LLM推理优化 - Prefill-Decode分离式推理架构](https://mp.weixin.qq.com/s/FwgYf3yHLM6wDHaalj9Saw)
 
@@ -29,6 +29,7 @@
 - [LLM Agent设计模式 - Plan-and-Solve](https://mp.weixin.qq.com/s/cIcODBeVXzE7DwEfvJ5_jA)
 - [LLM Agent设计模式 - LATS](https://mp.weixin.qq.com/s/lOaaxjTT7R6d9QSom9sEOg)
 - [LLM Agent设计模式 - Reflection](https://mp.weixin.qq.com/s/Ik9sIDcwaorurBsoeVFVRg)
+- [Agent框架分析 - AutoGen](https://mp.weixin.qq.com/s/julKSnzXO0JVnmS72VHjxQ)
 
 ---
 
