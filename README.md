@@ -4,9 +4,13 @@
 
 - [Transformer 101](https://mp.weixin.qq.com/s/qDVD70Fvirr7ORjiUIBOEw)
 
-## LLM预训练与微调
+## LLM预训练
 
-- [LLM训练优化 - QLoRA](https://mp.weixin.qq.com/s/Q_lxvUhSRJbd4D5Y-rCUqw)
+## LLM微调
+
+- [LLM微调技术 - QLoRA](https://mp.weixin.qq.com/s/Q_lxvUhSRJbd4D5Y-rCUqw)
+
+## LLM量化
 
 ## LLM推理
 
@@ -15,8 +19,8 @@
 - [LLM推理优化 - Flash Attention](https://mp.weixin.qq.com/s/v-Oqv07zTmxselXYeiLoTw)
 - [LLM推理优化 - PagedAttention](https://mp.weixin.qq.com/s/KaiFzXzTn4gGe4oWj5POuQ)
 - [LLM推理优化 - Prefill-Decode分离式推理架构](https://mp.weixin.qq.com/s/FwgYf3yHLM6wDHaalj9Saw)
-
-## LLM压缩
+- [LLM推理优化 - Continuous Batching](https://mp.weixin.qq.com/s/RZLkx_48fBFpZ4wS_KFa6w)
+- [LLM推理优化 - Prefix Caching](https://mp.weixin.qq.com/s/ItU20R5zmgXE-NQBDLDmQw)
 
 ## LLM评测
 
