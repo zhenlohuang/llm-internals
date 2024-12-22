@@ -21,6 +21,7 @@
 - [LLM推理优化 - Prefill-Decode分离式推理架构](https://mp.weixin.qq.com/s/FwgYf3yHLM6wDHaalj9Saw)
 - [LLM推理优化 - Continuous Batching](https://mp.weixin.qq.com/s/RZLkx_48fBFpZ4wS_KFa6w)
 - [LLM推理优化 - Prefix Caching](https://mp.weixin.qq.com/s/ItU20R5zmgXE-NQBDLDmQw)
+- [LLM推理优化 - Speculative Decoding](https://mp.weixin.qq.com/s/-K0LzrbDvH_dGnuxeR58Wg)
 
 ## LLM评测
 
