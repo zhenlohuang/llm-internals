@@ -22,6 +22,9 @@
 - [LLM推理优化 - Continuous Batching](https://mp.weixin.qq.com/s/RZLkx_48fBFpZ4wS_KFa6w)
 - [LLM推理优化 - Prefix Caching](https://mp.weixin.qq.com/s/ItU20R5zmgXE-NQBDLDmQw)
 - [LLM推理优化 - Speculative Decoding](https://mp.weixin.qq.com/s/-K0LzrbDvH_dGnuxeR58Wg)
+- [LLM推理优化 - Chunked prefills](https://mp.weixin.qq.com/s/n9X7Z6N1w0fTsH8CpqcCxg)
+- [LLM推理优化 - KVCache压缩](https://mp.weixin.qq.com/s/6uSrkt0fJ5pPS12toQpHDw)
+- [LLM推理优化- Constrained Decoding](https://mp.weixin.qq.com/s/KuA1VCGh1b2_xqjoYO3YFA)
 
 ## LLM评测
 
